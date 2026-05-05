@@ -1,0 +1,29 @@
+# ─────────────────────────────────────────────────────
+#  ARIA — Voice Assistant
+#  Requirements
+#  Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────
+
+# ── Gemini AI (Chat + TTS) ────────────────────────────
+google-genai
+
+# ── Speech Recognition (STT) ─────────────────────────
+SpeechRecognition
+
+# ── Audio Playback & Capture ─────────────────────────
+pyaudio
+
+# ── Environment Variables (.env) ─────────────────────
+python-dotenv
+
+# ── PC Control ───────────────────────────────────────
+psutil                  # CPU, RAM, battery, process control
+pyautogui               # Screenshots, keyboard simulation
+pyperclip               # Clipboard access
+
+# ── Windows Volume Control ───────────────────────────
+pycaw                   # Windows audio control
+comtypes                # Required by pycaw (Windows COM)
+
+# ── GUI (Tkinter is built-in, no install needed) ─────
+# tkinter — already included in Python 3.x
