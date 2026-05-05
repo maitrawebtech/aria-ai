@@ -70,7 +70,7 @@ ARIA - Voice Assistant/
 
 ### 1. Clone / Download
 ```bash
-git clone https://github.com/yourusername/ARIA-Voice-Assistant.git
+git clone https://github.com/yourusername/aria-ai
 cd "ARIA - Voice Assistant"
 ```
 
@@ -227,7 +227,7 @@ The GUI runs on the **main thread** (Tkinter requirement). ARIA's voice loop run
 
 ## Built By
 
-**Ishan Maitra** — [github.com/ishanmaitra](https://github.com/ishanmaitra)
+**Ishan Maitra** — [github.com/maitrawebtech](https://github.com/maitrawebtech)
 
 Part of the **Maitra** personal AI ecosystem:
 - `MNCS` — Neural touchless computer control
