@@ -1,4 +1,4 @@
-ndendendednedne# ◈ A.R.I.A — Adaptive Responsive Intelligence Assistant
+# ◈ A.R.I.A — Adaptive Responsive Intelligence Assistant
 
 > *Your AI girlfriend who also controls your PC. Hinglish mein baat karo, kaam karwao.*
 
